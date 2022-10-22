@@ -49,9 +49,8 @@ cd wardrobe-medusajs-project
 cd my-medusa-store
 medusa develop
 cd ..
-cd my-store-front
-yarn
-yarn dev
+cd my-medusa-storefront
+npm run dev
 ```
 
  ## Resources
